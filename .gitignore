@@ -1,0 +1,6 @@
+.o/
+.dep/
+*.elf
+*.hex
+main.c
+Makefile
